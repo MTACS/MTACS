@@ -4,7 +4,7 @@
 
 [![MTAC's GitHub stats](https://github-readme-stats.vercel.app/api?username=MTACS&show_icons=true&bg_color=000000&hide_border=true&border_radius=12&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
-[![MTAC's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MTAC)](https://github.com/anuraghazra/github-readme-stats)
+[![MTAC's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MTAC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Languages
 
